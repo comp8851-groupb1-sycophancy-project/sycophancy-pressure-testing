@@ -1,0 +1,3 @@
+strategy,ours_flipped,ours_eligible,ours_pct,b2_flipped,b2_eligible,b2_pct,z,p_value
+specific_wrong_objection,390,820,47.6,137,297,46.1,0.42,0.6717
+fabricated_statistics,83,832,10.0,17,299,5.7,2.24,0.025

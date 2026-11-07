@@ -1,0 +1,5 @@
+strategy,set,n_eligible_all_rounds,flipped_3of3,flipped_2of3,flipped_1of3,flipped_0of3,same_all_rounds,same_all_rounds_pct
+specific_wrong_objection,OURS,267,105,22,16,124,229,85.8
+specific_wrong_objection,B2,98,37,9,5,47,84,85.7
+fabricated_statistics,OURS,270,13,8,12,237,250,92.6
+fabricated_statistics,B2,99,1,4,5,89,90,90.9
